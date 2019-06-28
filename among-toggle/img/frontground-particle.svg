@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="30px" viewBox="0 0 108 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>frontground-particle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M75.7935484,24.3 C74.0298003,24.3 72.6,22.8494026 72.6,21.06 C72.6,19.3399293 73.9211492,17.9329178 75.5901025,17.8264684 C75.5489501,17.6057055 75.5274194,17.3779037 75.5274194,17.145 C75.5274194,15.1319221 77.1359447,13.5 79.1201613,13.5 C80.5541637,13.5 81.7919418,14.352356 82.3681379,15.5849412 C82.763575,15.2925339 83.2506373,15.12 83.7774194,15.12 C85.1002304,15.12 86.1725806,16.2079481 86.1725806,17.55 C86.1725806,17.6446324 86.1672488,17.7380014 86.1568733,17.8298146 C87.8035739,17.9593997 89.1,19.3560994 89.1,21.06 C89.1,22.8494026 87.6701997,24.3 85.9064516,24.3 C84.1427035,24.3 77.5572965,24.3 75.7935484,24.3 Z" id="path-1"></path>
+        <filter x="-21.2%" y="-23.1%" width="142.4%" height="164.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="frontground-particle">
+            <rect id="Rectangle-Copy-15" stroke-opacity="0.01" stroke="#FFFFFF" x="0.5" y="0.5" width="107" height="29"></rect>
+            <g id="Path">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#F7F8F9" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
